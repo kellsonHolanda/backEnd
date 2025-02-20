@@ -1,0 +1,10 @@
+package dao;
+
+
+public class ClienteDao implements IClienteDao {
+
+    public String salvar (){
+    	throw new UnsupportedOperationException("Operação não suportada");
+
+    }
+}
